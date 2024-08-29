@@ -1,5 +1,5 @@
-# novel-conjecture-and-computational-evidence.
-A research project exploring the relationship between Fermat primes and Mersenne primes, a novel conjecture and computational evidence.
+# Novel-conjecture-and-computational-evidence.
+A research project to explore the relationship between Fermat primes and Mersenne primes, a novel conjecture and computational evidence.
 # Lucas-Lehmer Primality Test Using FFT
 
 ## Overview
@@ -28,7 +28,7 @@ Mersenne primes are of the form \( M_p = 2^p - 1 \), where \( p \) itself is a p
 
 ## Usage
 
-1. Replace the placeholder `'Inclure p'` with the prime number \( p \) you wish to test.
+1. Replace the placeholder `'p value'` with the prime number \( p \) you wish to test.
 2. Run the script. If the output is "YES", then \( 2^p - 1 \) is a Mersenne prime. If "NO", it is not.
 
 ## Example
